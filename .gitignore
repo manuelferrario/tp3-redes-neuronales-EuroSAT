@@ -1,0 +1,11 @@
+# Diapositivas de la materia
+11 - *.pdf
+12 - *.pdf
+13 - *.pdf
+14 - *.pdf
+15 - *.pptx
+16 - *.pptx
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
