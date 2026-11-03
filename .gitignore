@@ -5,6 +5,8 @@
 14 - *.pdf
 15 - *.pptx
 16 - *.pptx
+17 - *.pdf
+18 - *.pdf
 
 # Jupyter
 .ipynb_checkpoints/
